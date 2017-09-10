@@ -12,5 +12,3 @@ def input_to_index(input)
   position = integer - 1
   return position
 end
-  
-  
